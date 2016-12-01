@@ -32,7 +32,7 @@ int main()
 	char myCommand;			//myCommand wird definiert
 	cout << "Bitte geben Sie den Text ein: ? ";
 	getline(cin, myString);
-	do
+	do					// schleife, damit solange befehle eingegeben werden können, wie man möchte
 	{
 		writeOut(myString, stringPosition);
 		myCommand = getCommand();
