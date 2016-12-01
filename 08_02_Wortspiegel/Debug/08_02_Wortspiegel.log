@@ -1,0 +1,8 @@
+﻿  wortspiegel.cpp
+c:\users\stefko\documents\visual studio 2015\projects\08_01_animation\08_02_wortspiegel\wortspiegel.cpp(9): warning C4018: "<=": Konflikt zwischen "signed" und "unsigned"
+  main.cpp
+c:\users\stefko\documents\visual studio 2015\projects\08_01_animation\08_02_wortspiegel\main.cpp(9): warning C4018: "<": Konflikt zwischen "signed" und "unsigned"
+c:\users\stefko\documents\visual studio 2015\projects\08_01_animation\08_02_wortspiegel\main.cpp(45): warning C4018: "<": Konflikt zwischen "signed" und "unsigned"
+  Code wird generiert...
+  08_02_Wortspiegel.vcxproj -> C:\Users\Stefko\documents\visual studio 2015\Projects\08_01_Animation\Debug\08_02_Wortspiegel.exe
+  08_02_Wortspiegel.vcxproj -> C:\Users\Stefko\documents\visual studio 2015\Projects\08_01_Animation\Debug\08_02_Wortspiegel.pdb (Full PDB)
